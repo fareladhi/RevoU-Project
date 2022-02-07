@@ -1,0 +1,11 @@
+bikeshare_regions
+ https://console.cloud.google.com/bigquery?project=revou-assignment&d=san_francisco_bikeshare&p=bigquery-public-data&t=bikeshare_regions&page=table&ws=!1m9!1m3!8m2!1s683618523844!2sdfdad17c930c46d5b9173a5927818ab5!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_regions
+ ---------
+bikeshare_station_info
+ https://console.cloud.google.com/bigquery?project=revou-assignment&d=san_francisco_bikeshare&p=bigquery-public-data&t=bikeshare_station_info&page=table&ws=!1m14!1m3!8m2!1s683618523844!2sdfdad17c930c46d5b9173a5927818ab5!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_regions!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_station_info
+ ---------
+bikeshare_station_status
+ https://console.cloud.google.com/bigquery?project=revou-assignment&d=san_francisco_bikeshare&p=bigquery-public-data&t=bikeshare_station_status&page=table&ws=!1m19!1m3!8m2!1s683618523844!2sdfdad17c930c46d5b9173a5927818ab5!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_regions!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_station_info!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_station_status
+ ---------
+bikeshare_trips
+ https://console.cloud.google.com/bigquery?project=revou-assignment&d=san_francisco_bikeshare&p=bigquery-public-data&t=bikeshare_trips&page=table&ws=!1m24!1m3!8m2!1s683618523844!2sdfdad17c930c46d5b9173a5927818ab5!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_regions!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_station_info!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_station_status!1m4!4m3!1sbigquery-public-data!2ssan_francisco_bikeshare!3sbikeshare_trips
